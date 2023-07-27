@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../googleMap/google_map"
+		},
+		{
+			"path": "../../../../../xampp/htdocs/Lab7"
+		},
+		{
+			"path": "../../../../../xampp/htdocs/rockPaperScissor"
+		},
+		{
+			"path": "../../../../../xampp/htdocs/labTest"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
